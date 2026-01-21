@@ -4,18 +4,18 @@ PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DURATION:PT3H
 LOCATION:Xfinity Mobile Arena - Philadelphia\, PA
-DTSTART:20260328T230000Z
-SUMMARY:BKFC FIGHT NIGHT MOHEGAN SUN PORTER vs WATSON
-UID:93a5614e9a5795992d18a0730aa742cc@bkfc
-URL:https://www.bkfc.com/events/bkfc-fight-night-mohegan-sun-porter-vs-watson
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT3H
-LOCATION:Xfinity Mobile Arena - Philadelphia\, PA
 DTSTART:20260412T040000Z
 SUMMARY:BKFC HAWAII
 UID:10318bbe00db0221056db25f55eede29@bkfc
 URL:https://www.bkfc.com/events/bkfc-hawaii
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT3H
+LOCATION:Xfinity Mobile Arena - Philadelphia\, PA
+DTSTART:20260329T010000Z
+SUMMARY:BKFC FIGHT NIGHT MOHEGAN SUN PORTER vs WATSON
+UID:88efa954c548cdaab0056198d380eb11@bkfc
+URL:https://www.bkfc.com/events/bkfc-fight-night-mohegan-sun-porter-vs-watson
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT3H
